@@ -232,3 +232,74 @@ a:hover, a:active, a:focus{
 em{
     color: #15598d;
 }
+
+/* Responsive CSS */
+@media (min-width: 768px) and (max-width: 1200px) {
+
+    html {
+        -webkit-text-size-adjust: none;
+    }
+
+    h1{
+        margin: 2vh auto 0;
+        text-align: center;
+        width: auto;
+    }
+
+    h1 span.right, h1 small{
+        display: none;
+    }
+
+    main {
+        margin: 0 auto;
+        width: 90%;
+    }
+
+}
+
+@media (max-width: 768px) and (min-width: 0) {
+
+h1 small, h1 span.right{
+    display: none;
+}
+
+html {
+    -webkit-text-size-adjust: none;
+}
+
+h1{
+    text-align: center;
+    width: fit-content;
+    margin: 3vh auto 0;
+}
+
+main{
+    width: 95%;
+    display: block;
+}
+
+#films{
+    max-width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: auto;
+}
+
+.movie{
+    flex: 45%;
+    max-width: 45%;
+}
+
+#sidebar{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    border-top-right-radius: 0;
+}
+
+summary{
+    font-weight: bold;
+}
+
+}
