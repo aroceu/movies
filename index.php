@@ -272,7 +272,7 @@ function watchCheck() {
         </details>
 
         <p id="watchSeen"><strong>You've seen:</strong> 0 / 18</p>
-        <p class="lmk">Feel free to <a href="https://aroceu.com">email me</a> or let me know on social media how many of my favorite movies you've seen :)</p>
+        <p class="lmk">Feel free to <a href="https://aroceu.com">let me know</a> how many of my favorite movies you've seen :)</p>
 
         </div>
     </main>
