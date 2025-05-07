@@ -193,8 +193,8 @@ function watchCheck() {
                 or at least joy in its intent to exist. I love stories with a mysterious element because they scratch the itch of my curiosity;
                 and I love to laugh and be a little bit scared. Movies feel like a microcosm of our world - and even moreso, I think, because 
                 they happen in front of our eyes in a motion we experience. </p>
-            <p>When I was a kid, I had a huge preference for animated movies and didn't like watching "real people" movies, but I think because I 
-                was just young and scared of the real world that I preferred living in someone else's animated depiction of the world. <em>Spy Kids</em> was 
+            <p>When I was a kid, I had a huge preference for animated movies and didn't like watching "real people" movies, but because I 
+                was just young and scared of the real world. I preferred watching depictions of non-reality, living in someone else's animated imagination of the world. <em>Spy Kids</em> was 
                 what eased me out of this - well, that, and <em>That's So Raven</em>. But feeling myself grow out of being someone who stubbornly didn't want to watch 
                 "real people" movies to becoming someone more interested in the less kid-friendly stories that may or may not be based in reality, was a very conscious 
                 signal to me that I'd grown up.</p>

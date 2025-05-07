@@ -228,3 +228,7 @@ a:link, a:visited{
 a:hover, a:active, a:focus{
     font-weight: bold;
 }
+
+em{
+    color: #15598d;
+}
