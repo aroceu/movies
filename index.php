@@ -183,7 +183,7 @@ function watchCheck() {
         <details>
             <summary>About</summary>
             <p>Movies are my favorite form of storytelling entertainment as a member of the audience. There's so many ways to enjoy them - by yourself or with others, on a big screen or small - 
-                and so many things to take in in a single viewing. I like concise stories, getting punched with just as much effort is needed. This is why I 
+                and so many things to take in in a single viewing. I like concise stories, getting punched well enough just once to feel something. This is why I 
                 prefer movies to TV shows, because the limitation of the duration of a movie - both in actual runtime as well as its profitability - 
                 tends to challenge directors who care to make the most of every element of the medium, and everyone else involved in the process
                 to operate to the best of their ability on the project.
