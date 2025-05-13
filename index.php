@@ -275,6 +275,15 @@ function watchCheck() {
                     <img src="etc/inception.jpg" alt="Inception">
                 </div>
             </div>
+
+            <div class="films-small">
+                <div class="movie">
+                    <img src="etc/josie.jpg" alt="Josie and the Pussycats">
+                </div>
+                <div class="movie">
+                    <img src="etc/simple-favor.png" alt="A Simple Favor">
+                </div>
+            </div>
         </details>
 
         <p id="watchSeen"><strong>You've seen:</strong> 0 / 18</p>
