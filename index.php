@@ -6,7 +6,7 @@
 	<meta name="description" content="hello i am an obsessive writer, website owner, and fujoshi, and this is my house."/>
 	<meta property="og:title" content="aroceu (movies)" />
 	<meta property="og:description" content="hello i am an obsessive writer, website owner, and fujoshi, and this is my house." />
-	<meta property="og:image" content="https://aroceu.com/assets/preview.png" />
+	<meta property="og:image" content="assets/preview.png" />
 	<meta property="og:url" content="https://aroceu.com/movies" />
 	<meta name="viewport" content="initial-scale=1.0, maximum-scale=5, width=device-width">
     <title>aroceu's favorite movies</title>
