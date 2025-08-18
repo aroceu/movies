@@ -10,6 +10,18 @@
     scrollbar-color: #adcade transparent;
 }
 
+::selection {
+    background: #c5d5e1;
+    color: #33495a;
+}
+::-moz-selection {
+    background: #c5d5e1;
+    color: #33495a;
+}
+::-webkit-selection{
+    background: #33495a;
+    color: #c5d5e1;
+}
 body{
     background: url('assets/body-background.png') repeat repeat;
     background-size: 100px;
